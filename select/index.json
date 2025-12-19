@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "青春のリグレット",
+  "base_artist": "Yumi Matsutoya",
+  "createdAt": "2025-12-19T13:27:17.417320Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青春のリグレット",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/01_青春のリグレット_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青春のリグレット",
+      "artist": "Matsutoya, Yumi",
+      "has_synced": true,
+      "path": "select/02_青春のリグレット_Matsutoya,_Yumi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青春のリグレット",
+      "artist": "松任谷由実",
+      "has_synced": false,
+      "path": "select/03_青春のリグレット_松任谷由実.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青春のリグレット",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/04_青春のリグレット_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青春のリグレット",
+      "artist": "Acid Black Cherry",
+      "has_synced": false,
+      "path": "select/05_青春のリグレット_Acid_Black_Cherry.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青春のリグレット (2022 mix) - Regret From My Youth / Seishun No Regret (2022 Ｍix)",
+      "artist": "Yumi Matsutoya",
+      "has_synced": false,
+      "path": "select/06_青春のリグレット_(2022_mix)_-_Regret_From_My_Youth___Seishun_No_Regret_(2022_Mix)_Yumi_Matsutoya.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "青春のリグレット",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/07_青春のリグレット_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "青春のリグレット",
+      "artist": "Miki Imai",
+      "has_synced": true,
+      "path": "select/08_青春のリグレット_Miki_Imai.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "青春のリグレット",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/09_青春のリグレット_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "青春のリグレット [2022 Mix]",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/10_青春のリグレット_[2022_Mix]_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "青春のリグレット - 2022 mix",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/11_青春のリグレット_-_2022_mix_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "青春のリグレット",
+      "artist": "Matsutoya Yumi",
+      "has_synced": true,
+      "path": "select/12_青春のリグレット_Matsutoya_Yumi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春のリグレット",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_01_青春のリグレット_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "青春のリグレット",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_02_青春のリグレット_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "青春のリグレット",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_03_青春のリグレット_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "青春のリグレット",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_04_青春のリグレット_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "青春のリグレット",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_05_青春のリグレット_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "青春のリグレット",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_06_青春のリグレット_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "青春のリグレット",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_07_青春のリグレット_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "青春のリグレット",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_08_青春のリグレット_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "青春のリグレット (2022 mix)",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_09_青春のリグレット_(2022_mix)_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "青春のリグレット (2022 mix)",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_10_青春のリグレット_(2022_mix)_松任谷_由実.txt"
+    }
+  ]
+}
